@@ -1,4 +1,4 @@
-package com.grupo4.service;
+package com.grupo4.unit_tested_calculator;
 
 public class PedidoService {
     public double calcularTotal(double subtotal, boolean    aplicaDescuento, boolean envioExpress) {

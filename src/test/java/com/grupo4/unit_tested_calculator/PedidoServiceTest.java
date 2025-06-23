@@ -1,7 +1,7 @@
-package com.grupo4.service;
+package com.grupo4.unit_tested_calculator;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-class PedidoServiceTest {
+public class PedidoServiceTest {
     PedidoService service = new PedidoService();
 
     @Test
